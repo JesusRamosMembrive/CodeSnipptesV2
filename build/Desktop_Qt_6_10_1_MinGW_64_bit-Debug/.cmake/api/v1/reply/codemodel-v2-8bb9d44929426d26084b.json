@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-714c98f07d98df0b3493.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CodeSnipptesV2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-6b7512cd90326698ffe3.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5cb30e965d7086361349.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-864e78392d8f2d6cf91e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-6aee1d9b5c7e1e16c796.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ed75c15534793bd3450d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2-Debug-a9130e30e3bf6080eb84.json",
+					"name" : "appCodeSnipptesV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_autogen-Debug-50578e25f770222d7ca2.json",
+					"name" : "appCodeSnipptesV2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_autogen_timestamp_deps-Debug-bc2ce836c23f72849db0.json",
+					"name" : "appCodeSnipptesV2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_copy_qml-Debug-85dc3421c91e9c9eb1cc.json",
+					"name" : "appCodeSnipptesV2_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_copy_res-Debug-afa105b989266a8cb896.json",
+					"name" : "appCodeSnipptesV2_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_qmlimportscan-Debug-b0d8de6d936edfe274f1.json",
+					"name" : "appCodeSnipptesV2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_qmllint-Debug-cef9ceeaaa5642568983.json",
+					"name" : "appCodeSnipptesV2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_qmllint_json-Debug-372827977f49d11fb49b.json",
+					"name" : "appCodeSnipptesV2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_qmllint_module-Debug-259a69de58e037d3c687.json",
+					"name" : "appCodeSnipptesV2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCodeSnipptesV2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCodeSnipptesV2_qmltyperegistration-Debug-5024ce697cad1b718e6f.json",
+					"name" : "appCodeSnipptesV2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-ca29768f0684f0332258.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appCodeSnipptesV2_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appCodeSnipptesV2_aotstats_target-Debug-8f3013050a25a4cd3dba.json",
+					"name" : "module_appCodeSnipptesV2_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "H:/Git_Overture/CodeSnipptesV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

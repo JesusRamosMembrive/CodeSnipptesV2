@@ -1,0 +1,14 @@
+-rootPath
+H:/Git_Overture/CodeSnipptesV2
+-cmake-output
+-output-file
+H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appCodeSnipptesV2_build.cmake
+-importPath
+H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CodeSnipptesV2
+-importPath
+H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.10.1/mingw_64/qml
+-qrcFiles
+H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_CodeSnipptesV2.qrc
+H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appCodeSnipptesV2_raw_qml_0.qrc

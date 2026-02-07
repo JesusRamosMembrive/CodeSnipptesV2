@@ -1,0 +1,25 @@
+# ninja log v6
+25	62	7921678794700951	.qt/appCodeSnipptesV2_res.txt	7dec74fcae4e3992
+25	62	7921678794700951	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/appCodeSnipptesV2_res.txt	7dec74fcae4e3992
+19	63	7921678794705989	.qt/appCodeSnipptesV2_qml.txt	4eb3dfc50cae5585
+19	63	7921678794705989	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/appCodeSnipptesV2_qml.txt	4eb3dfc50cae5585
+37	114	7921678795226265	.qt/qml_imports/appCodeSnipptesV2_build.cmake	29a3c0e357e81c38
+37	114	7921678795226265	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appCodeSnipptesV2_build.cmake	29a3c0e357e81c38
+31	133	7921678795418535	.qt/.qmlls.build.ini	2e3d8720bb35bea4
+31	133	7921678795418535	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/.qmlls.build.ini	2e3d8720bb35bea4
+134	315	7921678796650576	appCodeSnipptesV2_autogen/timestamp	7d2220191a9ba8bc
+134	315	7921678796650576	appCodeSnipptesV2_autogen/mocs_compilation.cpp	7d2220191a9ba8bc
+134	315	7921678796650576	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appCodeSnipptesV2_autogen/timestamp	7d2220191a9ba8bc
+134	315	7921678796650576	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appCodeSnipptesV2_autogen/mocs_compilation.cpp	7d2220191a9ba8bc
+320	353	7921678797628652	meta_types/appCodeSnipptesV2_json_file_list.txt	f27d879fcb6e3f6a
+320	353	7921678797628652	meta_types/appCodeSnipptesV2_json_file_list.txt.timestamp	f27d879fcb6e3f6a
+320	353	7921678797628652	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/meta_types/appCodeSnipptesV2_json_file_list.txt	f27d879fcb6e3f6a
+320	353	7921678797628652	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/meta_types/appCodeSnipptesV2_json_file_list.txt.timestamp	f27d879fcb6e3f6a
+353	394	7921678798030079	meta_types/qt6appcodesnipptesv2_metatypes.json.gen	1ad4e99615845143
+353	394	7921678798030079	meta_types/qt6appcodesnipptesv2_metatypes.json	1ad4e99615845143
+353	394	7921678798030079	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/meta_types/qt6appcodesnipptesv2_metatypes.json.gen	1ad4e99615845143
+353	394	7921678798030079	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/meta_types/qt6appcodesnipptesv2_metatypes.json	1ad4e99615845143
+394	1601	7921678799081458	appcodesnipptesv2_qmltyperegistrations.cpp	32fb5c08e32efcf8
+394	1601	7921678799081458	CodeSnipptesV2/appCodeSnipptesV2.qmltypes	32fb5c08e32efcf8
+394	1601	7921678799081458	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appcodesnipptesv2_qmltyperegistrations.cpp	32fb5c08e32efcf8
+394	1601	7921678799081458	H:/Git_Overture/CodeSnipptesV2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CodeSnipptesV2/appCodeSnipptesV2.qmltypes	32fb5c08e32efcf8

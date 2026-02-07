@@ -1,0 +1,6 @@
+module CodeSnipptesV2
+typeinfo appCodeSnipptesV2.qmltypes
+prefer :/qt/qml/CodeSnipptesV2/
+Main 254.0 Main.qml
+depends QtQuick
+
